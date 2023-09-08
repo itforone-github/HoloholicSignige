@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HoloHolikSignage</string>
+    <string name="url">http://itforone.co.kr/~holoho/signage_clock.php?s_id=</string>
+    <string name="domain">http://itforone.co.kr/~holoho/</string>
+    <string-array name="urlArr">
+        <item>http://itforone.co.kr/~holoho/photo.php?s_id=</item>
+        <item>http://itforone.co.kr/~holoho/ad.php?s_id=</item>
+        <item>https://itforone.co.kr/~holoho/youtube.test.php?youtubeId=</item>
+        <item>http://itforone.co.kr/~holoho/instagram.php?instagramUrl=</item>
+        <item>http://itforone.co.kr/~holoho/bbs/board.php?bo_table=schedule&amp;signage=1&amp;s_id=</item>
+        <item>http://itforone.co.kr/~holoho/signage_clock.php?s_id=</item>
+        <item>http://itforone.co.kr/~holoho/weather.php?s_id=</item>
+    </string-array>
+</resources>
